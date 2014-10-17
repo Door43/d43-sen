@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sen:home|Door43 (sen)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sen|d43-sen repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sen/archive/master.zip|d43-sen.zip]]
+
+**Recent Changes**
+{{changes>ns = sen}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sen|Ethnologue data]]
+
